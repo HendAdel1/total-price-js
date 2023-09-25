@@ -1,0 +1,12 @@
+body{
+    background-color: #000;
+}
+.card-body{
+    background-color: #111;
+}
+.card{
+    cursor: pointer;
+}
+#price-content{
+    font-size: 30px;
+}
